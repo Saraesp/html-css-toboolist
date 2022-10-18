@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img{
+    padding: 20px;
+}
+
+h1{
+   display: inline-block;
+   border-radius: 8px;
+   padding: 5px;
+}
+
+.button1{
+    background-color: #63B8FF;
+}
+
+.button2{
+    border-radius: 8px;
+    padding: 5px;
+}
