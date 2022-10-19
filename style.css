@@ -76,10 +76,12 @@ h3::before{
 
 li{list-style: none;
     font-size: 18px;
+    margin-bottom: 15px;
 }
 
 
 /*check e cross*/
+
 .blocco{
     padding: 10px 25px;
 }
